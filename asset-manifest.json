@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/Divithkumar3/Form-creation-using-Reactjs-Hooks-concepts-useState-/static/css/main.cb55a902.css",
-    "main.js": "/Divithkumar3/Form-creation-using-Reactjs-Hooks-concepts-useState-/static/js/main.00480d1d.js",
-    "static/js/453.3bbcf3ca.chunk.js": "/Divithkumar3/Form-creation-using-Reactjs-Hooks-concepts-useState-/static/js/453.3bbcf3ca.chunk.js",
-    "index.html": "/Divithkumar3/Form-creation-using-Reactjs-Hooks-concepts-useState-/index.html",
-    "main.cb55a902.css.map": "/Divithkumar3/Form-creation-using-Reactjs-Hooks-concepts-useState-/static/css/main.cb55a902.css.map",
-    "main.00480d1d.js.map": "/Divithkumar3/Form-creation-using-Reactjs-Hooks-concepts-useState-/static/js/main.00480d1d.js.map",
-    "453.3bbcf3ca.chunk.js.map": "/Divithkumar3/Form-creation-using-Reactjs-Hooks-concepts-useState-/static/js/453.3bbcf3ca.chunk.js.map"
+    "main.css": "/Form-creation-using-Reactjs-Hooks-concepts-useState-/static/css/main.cb55a902.css",
+    "main.js": "/Form-creation-using-Reactjs-Hooks-concepts-useState-/static/js/main.73836d29.js",
+    "static/js/453.3bbcf3ca.chunk.js": "/Form-creation-using-Reactjs-Hooks-concepts-useState-/static/js/453.3bbcf3ca.chunk.js",
+    "index.html": "/Form-creation-using-Reactjs-Hooks-concepts-useState-/index.html",
+    "main.cb55a902.css.map": "/Form-creation-using-Reactjs-Hooks-concepts-useState-/static/css/main.cb55a902.css.map",
+    "main.73836d29.js.map": "/Form-creation-using-Reactjs-Hooks-concepts-useState-/static/js/main.73836d29.js.map",
+    "453.3bbcf3ca.chunk.js.map": "/Form-creation-using-Reactjs-Hooks-concepts-useState-/static/js/453.3bbcf3ca.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.cb55a902.css",
-    "static/js/main.00480d1d.js"
+    "static/js/main.73836d29.js"
   ]
 }
